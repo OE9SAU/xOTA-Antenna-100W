@@ -12,7 +12,7 @@ Based on my xOTA-Antenna Design (https://github.com/DG1JAN/xOTA-Antenna) I made 
 
 1x BNC Socket -e.g-  Amphenol B6252H7 / Telegärtner J01001A0038 (or similar) 
 
-1x Plastic Wedge (3D Print Part, STL is in the Repo,use PETG) https://github.com/DG1JAN/xOTA-Antenna-100W/blob/main/EFHW_Coil_DG1JAN.stl
+1x Plastic Wedge (3D Print Part, STL is in the Repo,use PETG) https://github.com/DG1JAN/xOTA-Antenna-100W/blob/main/xOTA_100W_Wedge_DG1JAN.stl
 
 1x Cable Tie 2.5mm wide, 150cm long
 
@@ -27,7 +27,7 @@ optional:
 
 1x S-Hook Carabiner for wire straun relief and easy mountung
 
-1x 3D-Printed Coil Holder ( a small coil of 10Windings ~1m from the UnUn in the Antenna Wire results in a better match of 40 & 20m Band)
+1x 3D-Printed Coil Holder ( a small coil of 10Windings ~1m from the UnUn in the Antenna Wire results in a better match of 40 & 20m Band) [https://github.com/DG1JAN/xOTA-Antenna-100W/blob/main/xOTA_100W_Wedge_DG1JAN.stl](https://github.com/DG1JAN/xOTA-Antenna-100W/blob/main/EFHW_Coil_DG1JAN.stl)
 
 *alternativ mountting Option for Antenna Wire (2x 4mm Banana Sockets are not requierd):
 - use M3 Screw and Wing nut
