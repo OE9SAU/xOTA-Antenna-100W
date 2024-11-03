@@ -18,13 +18,26 @@ Based on my xOTA-Antenna Design (https://github.com/DG1JAN/xOTA-Antenna) I made 
 
 1x 100pF  Ceramic Capaciator - e.g. TDK CC45SL3FD101JYVNA (DigiKey is a good source)
 
-2x 4mm Banana Socket - e.g.	GTIWUNG	4mm Plug from Amazon
+2x 4mm Banana Socket* - e.g.	GTIWUNG	4mm Plug from Amazon
 
 9cm Shrink tube - 85mm wide
 
 
-more to come...
+optional:
+
+1x S-Hook Carabiner for wire straun relief and easy mountung
+
+1x 3D-Printed Coil Holder ( a small coil of 10Windings ~1m from the UnUn in the Antenna Wire results in a better match of 40 & 20m Band)
+
+*alternativ mountting Option for Antenna Wire (2x 4mm Banana Sockets are not requierd):
+- use M3 Screw and Wing nut
+- solder Wire directly
+
 
 ****
+
+more to come...
+****
+
 
 
