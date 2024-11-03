@@ -12,7 +12,7 @@ Based on my xOTA-Antenna Design (https://github.com/DG1JAN/xOTA-Antenna) I made 
 
 1x BNC Socket -e.g-  Amphenol B6252H7 / Telegärtner J01001A0038 (or similar) 
 
-1x Plastic Wedge (3D Print Part, STL is in the Repo,use PETG)
+1x Plastic Wedge (3D Print Part, STL is in the Repo,use PETG) https://github.com/DG1JAN/xOTA-Antenna-100W/blob/main/EFHW_Coil_DG1JAN.stl
 
 1x Cable Tie 2.5mm wide, 150cm long
 
