@@ -3,6 +3,9 @@
 
 Based on my xOTA-Antenna Design (https://github.com/DG1JAN/xOTA-Antenna) I made an updated Version with a better Toroid for higher power (100W SSB) and lowe core losses.
 
+![alt text](https://github.com/DG1JAN/xOTA-Antenna-100W/blob/main/xOTA100W.jpg)
+
+
 ## BOM (1:56 UnUn for EFHW)
 1x PCB: custom order with Gerber Files from PCB manufacturer e.g. from https://www.jlcpcb.com 
 
