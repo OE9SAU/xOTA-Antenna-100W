@@ -15,6 +15,9 @@ Based on my xOTA-Antenna Design (https://github.com/DG1JAN/xOTA-Antenna) I made 
 
 1.6m of Trafo wire - e.g. BLOCK	CUL 1mm
 
+**15 Windungen 1.4m**
+**2 Windungen 0.2m**
+
 1x BNC Socket -e.g-  Amphenol B6252H7 / Telegärtner J01001A0038 (or similar) 
 
 1x Plastic Wedge (3D Print Part, STL is in the Repo,use PETG) https://github.com/DG1JAN/xOTA-Antenna-100W/blob/main/xOTA_100W_Wedge_DG1JAN.stl
