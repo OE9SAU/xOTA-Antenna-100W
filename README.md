@@ -10,6 +10,7 @@ Based on my xOTA-Antenna Design (https://github.com/DG1JAN/xOTA-Antenna) I made 
 1x PCB: custom order with Gerber Files from PCB manufacturer e.g. from https://www.jlcpcb.com 
 
 1x Toroid - FairRite 2643101902 (DigiKey is a good source)
+1:56 mit 2-zu-15 Windungen
 
 1.6m of Trafo wire - e.g. BLOCK	CUL 1mm
 
