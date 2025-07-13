@@ -15,7 +15,7 @@ Based on my xOTA-Antenna Design (https://github.com/DG1JAN/xOTA-Antenna) I made 
 
 1.6m of Trafo wire - e.g. BLOCK	CUL 1mm
 
-**15 Windungen 1.4m**
+**15 Windungen 1.25m**
 
 **2 Windungen 0.2m**
 
